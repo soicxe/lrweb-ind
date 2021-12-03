@@ -1,5 +1,5 @@
 ﻿$("#lr07").click(function () {
-    window.location = 'index7.html';
+    window.location.href = 'index7.html';
 });
 $("#lr08").click(function () {
     window.open('index8.html');
